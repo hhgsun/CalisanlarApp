@@ -1,0 +1,27 @@
+<div class="list">
+
+  <ngx-datatable 
+    class="material"
+    [loadingIndicator]="loadingIndicator"
+    [rows]="rows"
+    [columns]="columns"
+    [headerHeight]="50"
+    [footerHeight]="50"
+    rowHeight="auto"
+    [columnMode]="'force'"
+    [externalPaging]="true"
+    [count]="page.totalElements"
+    [offset]="page.pageNumber"
+    [limit]="page.size"
+    (page)="changePage($event)"
+  >
+    <ngx-datatable-column *ngFor="let col of columns" [prop]="col.prop" [name]="col.name">
+    </ngx-datatable-column>
+    <ngx-datatable-column name="Düzenleme" [sortable]="false" prop="name">
+      <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
+        <button type="button" (click)="editItem(row)" class="btn btn-outline-dark btn-sm">Düzenle</button>
+      </ng-template>
+    </ngx-datatable-column>
+  </ngx-datatable>
+
+</div>
