@@ -3,7 +3,7 @@
 ## Backend
 ```sh
 cd Backend
-dotnet run
+dotnet run ## or "dotnet run --urls=https://localhost:7134/"
 ```
 
 ## Frontend

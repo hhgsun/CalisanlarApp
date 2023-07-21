@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Finagotech\\Backend\\FinagotechCalisanlar.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\finago\\CalisanlarApp\\Backend\\FinagotechCalisanlar.csproj",
       "projectName": "FinagotechCalisanlar",
-      "projectPath": "C:\\Users\\user\\Desktop\\Finagotech\\Backend\\FinagotechCalisanlar.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\finago\\CalisanlarApp\\Backend\\FinagotechCalisanlar.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Finagotech\\Backend\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\finago\\CalisanlarApp\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

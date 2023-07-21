@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hCC27dYiild9zp4QvVs7N7kpkzpcNgqkJYhZzichv1U7AMeXOwHI8FV5idwaDlAi6HF/j9cwzhIh9hFwME9MFw==",
+  "dgSpecHash": "YSuIXfXiruGAO/d8VVfHOufa07as9ookOZAgRlIU3FuutJQn/cyk+Sw3CiNBYnMEdkelleAJRXtip3/Jpd7AmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Finagotech\\Backend\\FinagotechCalisanlar.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\finago\\CalisanlarApp\\Backend\\FinagotechCalisanlar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
