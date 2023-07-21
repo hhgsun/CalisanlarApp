@@ -1,7 +1,13 @@
 # Calisanlar App
 
+## Backend
+```sh
+cd Backend
+dotnet run
+```
+
 ## Frontend
-```cmd
+```sh
 npm install -g @angular/cli
 
 cd Frontend
@@ -9,10 +15,10 @@ npm install
 ng serve
 ```
 
-## Backend
-```cmd
-cd Backend
-dotnet run
-```
-
 ## Screens
+![list](https://github.com/hhgsun/CalisanlarApp/blob/main/screens/list.png?raw=true)
+
+![add](https://github.com/hhgsun/CalisanlarApp/blob/main/screens/add.png?raw=true)
+
+![list](https://github.com/hhgsun/CalisanlarApp/blob/main/screens/edit.png?raw=true)
+
