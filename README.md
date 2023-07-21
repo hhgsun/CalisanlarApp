@@ -12,7 +12,7 @@ npm install -g @angular/cli
 
 cd Frontend
 npm install
-ng serve
+ng serve --open
 ```
 
 ## Screens
